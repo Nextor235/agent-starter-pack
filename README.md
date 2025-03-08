@@ -11,6 +11,10 @@ It accelerates development by providing a holistic, production-ready solution, a
 | [Pre-built agent templates](./agents/) (ReAct, RAG, multi-agent, Live Multimodal API). | [Vertex AI evaluation](https://cloud.google.com/vertex-ai/generative-ai/docs/models/evaluation-overview) and an interactive playground. | Production-ready infra with [monitoring](./docs/monitoring.md), [observability](./docs/observability.md), and [CI/CD](./docs/deployment.md) on [Cloud Run](https://cloud.google.com/run) or [Agent Engine](https://cloud.google.com/vertex-ai/generative-ai/docs/agent-engine/overview). | Extend and customize templates according to your needs. |
 
 ---
+
+## Before you start
+
+If you don't have gcloud installed: https://cloud.google.com/sdk/docs/install 
  
 ## ⚡ Get Started in 1 Minute
 
