@@ -12,9 +12,12 @@ It accelerates development by providing a holistic, production-ready solution, a
 
 ---
 
-## Before you start
+## Before Getting start
 
-If you don't have gcloud installed: https://cloud.google.com/sdk/docs/install 
+Install:
+- python: https://www.python.org/downloads/
+- nodeJS: https://nodejs.org/en
+- gcloud: https://cloud.google.com/sdk/docs/install 
  
 ## ⚡ Get Started in 1 Minute
 
