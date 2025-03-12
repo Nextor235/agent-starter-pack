@@ -81,7 +81,7 @@ This project represents the next evolution of the [e2e-gen-ai-app-starter-pack](
 
 ## 🔧 Requirements
 
-- Python 3.10+
+- Python 3.10-3.12 (Python 3.13 is not supported)
 - [Google Cloud SDK](https://cloud.google.com/sdk/docs/install)
 - [Terraform](https://developer.hashicorp.com/terraform/downloads) (for deployment)
 
